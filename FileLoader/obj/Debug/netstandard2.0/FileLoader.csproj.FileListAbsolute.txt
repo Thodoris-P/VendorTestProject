@@ -1,0 +1,10 @@
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/bin/Debug/netstandard2.0/FileLoader.deps.json
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/bin/Debug/netstandard2.0/FileLoader.dll
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/bin/Debug/netstandard2.0/FileLoader.pdb
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/obj/Debug/netstandard2.0/FileLoader.csproj.AssemblyReference.cache
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/obj/Debug/netstandard2.0/FileLoader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/obj/Debug/netstandard2.0/FileLoader.AssemblyInfoInputs.cache
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/obj/Debug/netstandard2.0/FileLoader.AssemblyInfo.cs
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/obj/Debug/netstandard2.0/FileLoader.csproj.CoreCompileInputs.cache
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/obj/Debug/netstandard2.0/FileLoader.dll
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/obj/Debug/netstandard2.0/FileLoader.pdb

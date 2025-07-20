@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9zD8alBOCNk=",
+  "success": true,
+  "projectFilePath": "/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/FileLoader/FileLoader.csproj",
+  "expectedPackageFiles": [
+    "/Users/thodoris/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/thodoris/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

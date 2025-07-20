@@ -1,0 +1,10 @@
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/bin/Debug/netstandard2.0/SqlServerLoader.deps.json
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/bin/Debug/netstandard2.0/SqlServerLoader.dll
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/bin/Debug/netstandard2.0/SqlServerLoader.pdb
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/obj/Debug/netstandard2.0/SqlServerLoader.csproj.AssemblyReference.cache
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/obj/Debug/netstandard2.0/SqlServerLoader.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/obj/Debug/netstandard2.0/SqlServerLoader.AssemblyInfoInputs.cache
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/obj/Debug/netstandard2.0/SqlServerLoader.AssemblyInfo.cs
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/obj/Debug/netstandard2.0/SqlServerLoader.csproj.CoreCompileInputs.cache
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/obj/Debug/netstandard2.0/SqlServerLoader.dll
+/Users/thodoris/Downloads/TestProjectFS/TestProject/Loaders/SqlServerLoader/obj/Debug/netstandard2.0/SqlServerLoader.pdb
