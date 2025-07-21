@@ -4,7 +4,7 @@
 
 The API is designed to facilitate efficient CRUD operations on Vendors based on the specified provider.
 
-## Wallet API
+## Vendor API
 - The Wallet API is a simple REST API that allows users to retrieve and manage vendors
 - The API controller relies on the IVendorLoader interface to perform the operations.
   - The API follows the Adapter Pattern where we design a common interface and contract for all the possible loaders and create one adapter for each concrete loader
